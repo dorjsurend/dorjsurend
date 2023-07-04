@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+A Full-Stack Developer by day ☼ and an electric guitarist by night ☾
+Full-Stack Developer at Airly studio;
+
 <!--
 **dorjsurend/dorjsurend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
